@@ -67,3 +67,6 @@ enter
 ctrl+x
 19. Restart the server to effect the changes 
 sudo systemctl restart apache2
+
+
+
